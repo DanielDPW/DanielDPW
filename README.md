@@ -1,4 +1,4 @@
-- Hi, I’m **Daniel Pedrosa Wu**.  An 2nd year _Informatics_ student from _**Bandung Institute of Technology**_.
+- Hi, I’m **Daniel Pedrosa Wu**.  A 2nd year _Informatics_ student from _**Bandung Institute of Technology**_.
 - STEI-K'23, SYNTAX!
 
 <!--
