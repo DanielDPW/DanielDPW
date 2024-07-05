@@ -1,4 +1,5 @@
-### Hi there 👋
+- Hi, I’m **Daniel Pedrosa Wu**.  An 2nd year _Informatics_ student from _**Bandung Institute of Technology**_.
+- STEI-K'23, SYNTAX!
 
 <!--
 **DanielDPW/DanielDPW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
