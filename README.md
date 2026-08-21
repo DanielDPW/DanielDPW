@@ -1,4 +1,4 @@
-- Hi, I’m **Daniel Pedrosa Wu**.  A 3rd year _Informatics_ student from _**Bandung Institute of Technology**_.
+- Hi, I’m **Daniel Pedrosa Wu**.  A final year _Informatics_ student from _**Bandung Institute of Technology**_.
 - CIPHER'23
 
 <!--
